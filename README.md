@@ -3,6 +3,7 @@
 - This tool is password list based.
 - when we provide password list and username list this will try each and evry password combination to crack it.
 - If you are using weak password this shows importance of using strong password and MFA.
+- Hydra is fast tool.
 
 ---
 
@@ -59,8 +60,32 @@
 
 ### Practicle :
 
-- I have added screenshots of practicle from tryhackme controlled lab :
 
 ---
+
+1. Using Hydra for brut forcing attack
+
+
+---
+
+<img width="1634" height="284" alt="Screenshot 2026-05-17 210719" src="https://github.com/user-attachments/assets/599f3330-4520-4534-a723-9c9563781e6c" />
+
+
+---
+
+
+<img width="1003" height="103" alt="Screenshot 2026-05-17 210727" src="https://github.com/user-attachments/assets/c85d2a0a-3f77-4747-9214-c5e1fdab5989" />
+
+
+---
+
+
+2. Using Hydra for SSH attack
+
+---
+
+<img width="1316" height="199" alt="Screenshot 2026-05-17 211032" src="https://github.com/user-attachments/assets/7f71efd5-46e3-4ca9-b273-be1f548dee05" />
+
+
 
 
