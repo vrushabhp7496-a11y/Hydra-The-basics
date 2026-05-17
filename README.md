@@ -25,6 +25,16 @@
 
 ### Command for Hydra is : 
 - Post web form :  hydra -l <username> -P <wordlist> 10.49.164.125 http-post-form "/:username=^USER^&password=^PASS^:F=incorrect" -V
+  1. Where -l : username for login
+  2. -P : The password list to use
+  3. Ip address of login page
+  4. http-post-form : The type of form is POST
+  5. Path : the login url page (For ex tryhackme.login)
+  6. username=user : the username used to login
+  7. password=pass : password used from list
+  8. F=inncorrect : response code when login fails
+  9. -v : verbose output for every attempt
+  
 
 
 ---
