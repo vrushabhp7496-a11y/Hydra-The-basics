@@ -6,7 +6,7 @@
 
 ---
 
-### Below i entioned all necessary flags related to hydra :
+### > Below i mentioned all necessary flags related to hydra :
 
 ---
 
